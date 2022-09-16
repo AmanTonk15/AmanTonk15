@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For Cloud Certifications (ACE).<br>🌱 I’m currently Exploring My Content Web Developer.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>🔭 I’m currently working on WordPress.<br>🌱 I’m currently learning DevOps.<br>📫 How to reach me: https://www.linkedin.com/in/aman-tonk-881a3419a/<br>😄 Pronouns: He/His<br>⚡ Fun fact: National Level Football player & State Level Basketball.
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://www.deviantart.com/findingnull/art/Binary-GIF-871009093">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vikasbalaji.vikasbalaji/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-tonk-881a3419a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AmanTonk11) 
